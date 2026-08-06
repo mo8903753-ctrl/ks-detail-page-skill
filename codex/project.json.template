@@ -1,0 +1,11 @@
+{
+  "product_name": "（锁定命名——以品牌最新确认为准）",
+  "platform": "Kickstarter",
+  "pricing": { "launch": "（$）", "msrp": "（$）", "note": "价格未确认前页面标 [PENDING]，禁旧稿数字" },
+  "locked_facts": ["（重量/尺寸/关键参数逐条列出，注明确认日期）"],
+  "ksp_order": ["资格/兼容", "角色/场景", "核心技术", "独占差异", "体验"],
+  "ksps": [{ "claim": "", "pain": "", "proof": "", "must_show": "" }],
+  "product_plate": ["assets/product-plate/front.jpg"],
+  "product_spec": "（材质/尺寸/接口按键位置数量/logo——跨帧一致性锚）",
+  "pending_brand": ["样张授权", "价格阶梯", "背书素材", "团队照", "时间线与费率"]
+}
